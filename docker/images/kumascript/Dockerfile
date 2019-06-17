@@ -1,4 +1,4 @@
-FROM node:10.16.0@sha256:2c0459e6f7fb62543b4ca30d4efcd0edd860224c86187c808f1975e811be1f00
+FROM node:10.16.0@sha256:ddad03af57005841ee77bfd0a20ba3905531af47f41cdf6d07eeddfef9f5c481
 
 RUN set -ex && \
     apt-get update && \
